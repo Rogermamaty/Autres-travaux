@@ -6,5 +6,5 @@ Exemples SQL et Excel
 - SQL (mySQL)
 
 ## Contenu
-Exo_MySQL_RM.sql : Mysql
-Exo_Ventes_MagasinSport_RM.xlsx : Excel
+- Exo_MySQL_RM.sql : Mysql
+- Exo_Ventes_MagasinSport_RM.xlsx : Excel
